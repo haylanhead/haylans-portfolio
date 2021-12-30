@@ -15,7 +15,8 @@
     <body>
         
         <h1>Hi i'm haylan board, I do front end web development</h1>
-        <p>I am a front end web developer, I can make elegent and simple looking websites with clean animations</p>
+        <p>I am a front end web developer, I can make elegent and simple looking websites with clean animations</I am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsI am a front end web developer, I can make elegent and simple looking websites with clean animationsp>
+        <h1></h1>
         
         
     
