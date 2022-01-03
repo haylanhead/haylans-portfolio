@@ -15,7 +15,7 @@
     <body>
     <div class="title">
         <div id="top"></div>
-        <img src="images/temporary%20pfp.png" alt="Haylan Board's profile picture">
+        <!--<img src="images/temporary%20pfp.png" alt="Haylan Board's profile picture">-->
         <h1>Hi i'm haylan board, I do front end web development</h1>
         <p>I am a front end web developer, I can make you elegent and simple looking websites with clean animations</p>
     </div>
@@ -37,8 +37,7 @@
                 <li><a href="#top">Go Back To The Top</a></li>
             </ul>
         </div>
-        mailto:haylanhead@hotmail.com?subject=The%20subject%20of%20the%20mail
-    
+        
     </body>
 
 
